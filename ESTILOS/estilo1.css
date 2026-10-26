@@ -1,0 +1,45 @@
+body{
+    background-image: url(../IMAGENES/todos-los-santos-WEB-DA.webp);
+}
+header{
+    background-color: azure;
+    padding: 5px;
+}
+footer{
+    background-color: azure;
+    padding: 3px;
+}
+nav{
+    background-color: yellow;
+    padding: 5px;
+    text-align: left;
+}
+img{
+    width: 50px;
+    height: 50px;
+}
+.contenido{
+    background-color:rgba(138, 38, 232, 0.842);
+    padding: 5px;
+    margin: 2px;
+    display: flex;
+}
+section{
+    background-color: rgba(245, 189, 245, 0.511);
+    padding: 5px;
+    margin: 5px;
+    width: 50%;
+    height: 200px;
+}
+*{
+    text-align: center;
+    margin: 10px;
+}
+input{
+    background-color: rgb(75, 212, 225);
+    width: 80%;
+    height: 40px;
+}
+label{
+    color: rgb(210, 30, 30);
+}
